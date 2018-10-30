@@ -71,7 +71,7 @@ echo new class
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>' . $doc . '</title>
   </head>
-  <body>' . $head . $main . $foot . '
+  <body>' . $head . $main . '
   </body>
 </html>
 ';
